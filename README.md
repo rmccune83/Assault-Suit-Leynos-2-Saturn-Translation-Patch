@@ -67,7 +67,7 @@ The following is translated:
 
 ## How the translation was made
 
-The translation was pulled from the official script in the Saturn Tribute release of Assault Suit Leynos 2.
+The translation was pulled from the official script in the Saturn Tribute release of Assault Suit Leynos 2. I also fixed some typos that were in that script.
 
 ## Reporting problems
 
