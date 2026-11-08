@@ -73,6 +73,6 @@ The translation was pulled from the official script in the Saturn Tribute releas
 
 For mistranslations, bugs or suggestions, please open an issue on this repository.
 
-## Licence
+## License
 
-The files in this repository are under the MIT Licence (see [LICENSE](LICENSE)). That licence gives no rights in *Assault Suit Leynos 2*. The game belongs to its copyright holders.
+The files in this repository are under the MIT License (see [LICENSE](LICENSE)). That license gives no rights in *Assault Suit Leynos 2*. The game belongs to its copyright holders.
